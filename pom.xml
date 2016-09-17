@@ -10,7 +10,7 @@
   <groupId>org.daisy.pipeline</groupId>
   <artifactId>updater-gui</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>updater-gui</name>
   <description>A lightweight updater gui for windows</description>
   <url>https://github.com/daisy/pipeline-updater-gui</url>
@@ -166,4 +166,8 @@
     </plugins>
   </build>
 
+
+  <scm>
+    <tag>v1.0.0</tag>
+  </scm>
 </project>
