@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <assembly>
-  <id>${item}</id>
+  <id>windows_386</id>
   <formats>
     <format>zip</format>
   </formats>
