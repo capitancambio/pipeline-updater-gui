@@ -116,7 +116,7 @@
             <configuration>
               <headerType>gui</headerType>
               <outfile>target/pipeline-updater-gui.exe</outfile>
-              <jar>target/updater-gui-1.0-SNAPSHOT-shaded.jar</jar>
+              <jar>target/updater-gui-${project.version}-shaded.jar</jar>
               <errTitle>pieline-updater</errTitle>
               <classPath>
                 <mainClass>org.daisy.pipeline.updater.gui.Main</mainClass>
