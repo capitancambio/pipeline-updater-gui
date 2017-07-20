@@ -125,7 +125,7 @@
               <!--
                   change to "console" for debugging
               -->
-              <headerType>gui</headerType>
+              <headerType>console</headerType>
               <outfile>target/pipeline-updater-gui.exe</outfile>
               <jar>target/updater-gui-${project.version}-shaded.jar</jar>
               <errTitle>pieline-updater</errTitle>
